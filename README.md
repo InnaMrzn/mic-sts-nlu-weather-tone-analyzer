@@ -15,7 +15,7 @@ This app records your speech, sends it to the Watson services to process the req
 
 ## -- Before you begin --
 
-* Create an IBM Cloud account if you don't have an existing one: [Sign up](https://ibm.biz/BdzLni).
+* Create an IBM Cloud account if you don't have an existing one: [Sign up](https://ibm.biz/BdqDMc).
 * __Note__: All services used in this repo are Lite plans. Don't forget to star this repo if you like it.
 * Use Firefox or Chrome for better performance
 
