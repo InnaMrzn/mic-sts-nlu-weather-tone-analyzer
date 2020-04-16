@@ -5,11 +5,14 @@
 ### Open IBM Cloud Service Catalog:
 
 > 1. [Click to create the Node-RED Starter](https://cloud.ibm.com/developer/appservice/starter-kits/nodered).
-enter a Unique name and leave everything default
+
+> 2. Click on Create app
+
+> 3. Enter a Unique name select a region which is close and leave the rest default, click on Create
+
 
 <hr>
 
-![](../img/node-red-catalog.png)
 
 <hr>
 
