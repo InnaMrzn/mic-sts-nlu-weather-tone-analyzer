@@ -4,7 +4,7 @@
 
 ### Open IBM Cloud Service Catalog:
 
-> [Click to create the Node-RED Starter](https://console.bluemix.net/catalog/starters/node-red-starter).
+> 1. [Click to create the Node-RED Starter](https://cloud.ibm.com/developer/appservice/starter-kits/nodered).
 enter a Unique name and leave everything default
 
 <hr>
