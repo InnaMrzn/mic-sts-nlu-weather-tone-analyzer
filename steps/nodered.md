@@ -44,7 +44,7 @@ Now you have connected a visual Recognition service to your application, next st
 
 
 
-![](../img/node-red-running-instance.png)
+
 
 <hr>
 
